@@ -8,7 +8,7 @@ header {
   background-image: url(logo.jpg);
   background-repeat: no-repeat;
   background-size: 90px;
-  background-position: 20px center; /* centers vertically for balance */
+  background-position: 20px center; 
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   box-shadow: 0 10px 22px rgba(0,0,0,.25);
   border-radius: 14px;
@@ -108,7 +108,7 @@ body {
   box-shadow: 0 14px 28px rgba(0,0,0,.18);
 }
 
-/* Nice, even media + tidy text */
+
 .features img{
   width:100%;
   aspect-ratio: 16 / 9;
@@ -282,4 +282,5 @@ footer a {
 footer a:hover {
    color: #f0be09;
 }
+
 
